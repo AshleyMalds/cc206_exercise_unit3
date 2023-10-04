@@ -1,4 +1,4 @@
-//{Alexandra Ashley A. Fernandez}: (Gold is indestructible)
+//{Alexandra Ashley A. Fernandez}: {Gold is indestructible}
 import 'package:flutter/material.dart';
 
 void main() {
